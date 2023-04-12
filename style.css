@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+}
+body {
+  background: #fbfce1
+}
+header {
+  background: #b498d2ff;
+}
+.logo {
+  margin: 10px;
+  width: 200px;
+  border-radius: 50%;
+}
+nav {
+  vertical-align: top;
+  display: inline-block;
+}
+h1 {
+  margin: 30px 40px;
+  font-size: 70px;
+  color: white;
+  vertical-align: top;
+}
+nav ul {
+  padding: 0;
+  list-style-type: none;
+  overflow: hidden;
+  text-align: center;
+}
+nav li {
+  display: inline-block;
+  margin: 10px;
+  font-size: 30px;
+}
+nav li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+}
+nav li a:hover {
+  background-color: #cebcdcff;
+  border-radius: 20px;
+}
