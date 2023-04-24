@@ -10,29 +10,29 @@ header {
 }
 .logo {
   margin: 10px;
-  width: 200px;
+  width: 180px;
   border-radius: 50%;
 }
 nav {
   vertical-align: top;
   display: inline-block;
 }
-h1 {
-  margin: 30px 40px;
-  font-size: 70px;
+.page-title {
+  margin: 25px 40px;
+  font-size: 65px;
   color: white;
 }
-nav ul {
+.header-nav {
   margin: 0 25px;
   list-style-type: none;
   overflow: hidden;
 }
-nav li {
+.header-link {
   display: inline-block;
   margin: 10px;
   font-size: 30px;
 }
-nav li a {
+.menu-link {
   display: block;
   padding: 10px;
   text-decoration: none;
@@ -42,6 +42,31 @@ nav li a:hover {
   background-color: #cebcdcff;
   border-radius: 20px;
 }
-.recipetitle {
+main {
+  width: 1000px;
+  margin: 70px auto;
+}
+p {
+  font-size: 20px;
+}
+.recipe-title {
   color: #333535;
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+.recipe-header {
+  width: 350px;
+  height: 380px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 30px;
+  margin: 0 30px;
+}
+.recipe-header-img {
+  width: 450px;
+  display: inline-block;
+  padding: 30px;
+}
+.recipe-img {
+  width: 100%;
 }
