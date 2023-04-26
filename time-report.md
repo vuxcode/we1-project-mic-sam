@@ -8,3 +8,6 @@
 
 - 2023-04-24 Worked for 3 hours.
   - Added header for recipe page and some other minor changes.
+
+- 2023-04-26 Worked for 2 hours.
+  - Fixed layout of recipe header.
