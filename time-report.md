@@ -11,3 +11,6 @@
 
 - 2023-04-26 Worked for 2 hours.
   - Fixed layout of recipe header.
+
+- 2023-05-08 Worked for 3 hours.
+  - Added ingredients list and instructions.
