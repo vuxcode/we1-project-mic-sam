@@ -14,3 +14,6 @@
 
 - 2023-05-08 Worked for 3 hours.
   - Added ingredients list and instructions.
+
+- 2023-05-10 Worked for 2 hours.
+  - Changed fonts, added contact page and a form.
