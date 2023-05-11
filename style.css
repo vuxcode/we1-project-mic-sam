@@ -89,6 +89,9 @@ nav li a:hover {
   width: 40%;
   vertical-align: top;
 }
+.ingredients-title {
+  margin-bottom: 8px;
+}
 .ingredients {
   margin: 10px;
   font-size: 20px;
@@ -108,4 +111,30 @@ ol {
 form {
   margin: 50px auto;
   width: 40%;
+  min-width: 450px;
+  color: #333535;
+}
+fieldset {
+  padding: 20px;
+  border-style: none;
+}
+label,
+input,
+textarea {
+  display: block;
+  padding: 5px;
+  box-sizing: border-box;
+}
+input {
+  width: 100%;
+  font-family: "mulish", sans-serif;
+}
+textarea {
+  font-family: "mulish", sans-serif ;
+  resize: none;
+  width: 100%
+}
+.submit {
+  margin: 0 20px;
+  width: 80px;
 }
