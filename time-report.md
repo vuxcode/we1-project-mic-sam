@@ -17,3 +17,6 @@
 
 - 2023-05-10 Worked for 2 hours.
   - Changed fonts, added contact page and a form.
+
+- 2023-05-11 Worked for 2 hours.
+  - Added another recipe page.

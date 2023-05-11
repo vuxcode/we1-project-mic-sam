@@ -69,13 +69,14 @@ nav li a:hover {
   color: #333535;
 }
 .rec-header-img {
-  width: 50%;
+  max-width: 550px;
   display: inline-block;
   padding: 30px;
   box-sizing: border-box;
 }
 .rec-img {
   width: 100%;
+  max-width: 500px;
   min-width: 360px;
 }
 .rec-lists {
@@ -84,7 +85,8 @@ nav li a:hover {
 }
 .ingr-list {
   color: #333535;
-  padding: 30px;
+  margin: 0 30px;
+  padding: 10px;
   display: inline-block;
   width: 40%;
   vertical-align: top;
