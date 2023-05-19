@@ -49,12 +49,12 @@ nav li a:hover {
   border-radius: 20px;
 }
 .rec-descr {
+  margin: 40px 0;
   font-size: 20px;
   max-width: 400px;
 }
 .rec-title {
   font-size: 40px;
-  margin-bottom: 40px;
 }
 .rec-header {
   background: #fbfce1;
@@ -63,12 +63,14 @@ nav li a:hover {
   margin: 50px auto;
 }
 .rec-info {
+  width: 45%;
   display: inline-block;
   vertical-align: top;
   padding: 30px;
   color: #333535;
 }
 .rec-header-img {
+  width: 45%;
   max-width: 550px;
   display: inline-block;
   padding: 30px;
@@ -92,7 +94,7 @@ nav li a:hover {
   vertical-align: top;
 }
 .ingredients-title {
-  margin-bottom: 8px;
+  margin: 10px 40px;
 }
 .ingredients {
   margin: 10px;
@@ -139,4 +141,44 @@ textarea {
 .submit {
   margin: 0 20px;
   width: 80px;
+}
+.rec-select {
+  width: 40%;
+  margin: 50px auto;
+}
+.recipe-card-img {
+  width: 230px;
+}
+.rec-card {
+  display: inline-block;
+  margin: 5px 2px;
+  width: 230px;
+}
+.select-img {
+  width: 230px;
+  display: block;
+}
+.rec-select-link {
+  box-sizing: border-box;
+  display: inline-block;
+  background: #b498d2ff;
+  padding: 15px;
+  width: 230px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+}
+.intro {
+  margin: 50px auto;
+  width: 50%;
+}
+.intro-title {
+  margin: 15px 0;
+  color: #333535;
+  font-size: 35px;
+}
+.intro-text {
+  color: #333535;
+  font-size: 20px;
 }

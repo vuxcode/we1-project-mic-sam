@@ -3,12 +3,13 @@
 <head>
   <title>TBA</title>
   <link href="style.css" rel="stylesheet">
+  <meta charset="UTF-8">
 </head>
 <body>
   <header>
     <img src="logo.png" class="logo" alt="En logga för hemsidan med en muffin och texten Michaelas recept kakor tårtor och bullar">
   <nav>
-    <h1 class="page-title">Kontakt</h1>
+    <h1 class="page-title">Recept</h1>
     <ul class="header-nav">
       <li class="header-link"><a class="menu-link" href="index.html">Hem</a></li>
       <li class="header-link"><a class="menu-link" href="recipe-selection.html">Recept</a></li>
@@ -16,18 +17,15 @@
     </ul>
   </nav>
   </header>
-  <main>
-    <form action="" method="POST">
-      <fieldset>
-        <label for="name">Namn:</label>
-        <input id="name" name="name" type="text">
-        <label for="email">Email:</label>
-        <input id="email" name="email" type="email">
-        <label for="message">Meddelande</label>
-        <textarea id="message" name="message" rows="8"></textarea>
-      </fieldset>
-      <input class="submit" type="submit" value="Skicka">
-    </form>
+  <main class="rec-select">
+    <div class="rec-card">
+      <img class="select-img" src="blueberrybread-img.jpg" alt="Blåbärsbröd på en skärbräda med färska blåbär spridda runt om">
+      <a class="rec-select-link" href="blueberrybread.html">Blåbärsbröd</a>
+    </div>
+    <div class="rec-card">
+      <img class="select-img" src="cupcake-img.jpg" alt="En muffin med rosa frosting och ett körsbär">
+      <a class="rec-select-link" href="cupcake.html">Muffins</a>
+    </div>
   </main>
 </body>
 </html>

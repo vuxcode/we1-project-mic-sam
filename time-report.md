@@ -20,3 +20,9 @@
 
 - 2023-05-11 Worked for 2 hours.
   - Added another recipe page.
+
+- 2023-05-16 Worked for 3 hours.
+  - Added recipe selection page.
+
+- 2023-05-18 Worked for 5 hours.
+  - Fixed some minor things on some pages, added text to homepage and tried to fix a bug with text display on a link.
