@@ -26,3 +26,6 @@
 
 - 2023-05-18 Worked for 5 hours.
   - Fixed some minor things on some pages, added text to homepage and tried to fix a bug with text display on a link.
+
+- 2023-05-22 Worked for 1 hour.
+  - Added a map and changed the recipe selection link.

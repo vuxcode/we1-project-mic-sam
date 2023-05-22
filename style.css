@@ -1,23 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
-body {
-  font-family: "mulish", sans-serif;
-}
 * {
   margin: 0;
   padding: 0;
 }
 body {
   background: #fbfce1;
+  font-family: "mulish", sans-serif;
 }
 header {
   background: #b498d2ff;
 }
 .logo {
   margin: 10px;
-  width: 15%;
+  width: 165px;
   border-radius: 50%;
-  min-width: 140px;
-  max-width: 165px;
 }
 nav {
   vertical-align: top;
@@ -59,7 +55,6 @@ nav li a:hover {
 .rec-header {
   background: #fbfce1;
   width: 70%;
-  min-width: 430px;
   margin: 50px auto;
 }
 .rec-info {
@@ -71,7 +66,6 @@ nav li a:hover {
 }
 .rec-header-img {
   width: 45%;
-  max-width: 550px;
   display: inline-block;
   padding: 30px;
   box-sizing: border-box;
@@ -87,14 +81,14 @@ nav li a:hover {
 }
 .ingr-list {
   color: #333535;
-  margin: 0 30px;
-  padding: 10px;
+  padding: 10px 30px;
   display: inline-block;
   width: 40%;
   vertical-align: top;
 }
 .ingredients-title {
   margin: 10px 40px;
+  color: #333535;
 }
 .ingredients {
   margin: 10px;
@@ -140,7 +134,11 @@ textarea {
 }
 .submit {
   margin: 0 20px;
-  width: 80px;
+  width: 90px;
+}
+.map {
+  width: 500px;
+  margin: 20px auto;
 }
 .rec-select {
   width: 40%;
@@ -151,23 +149,21 @@ textarea {
 }
 .rec-card {
   display: inline-block;
-  margin: 5px 2px;
   width: 230px;
 }
 .select-img {
   width: 230px;
-  display: block;
 }
 .rec-select-link {
-  box-sizing: border-box;
   display: inline-block;
   background: #b498d2ff;
-  padding: 15px;
-  width: 230px;
   text-align: center;
   color: white;
   text-decoration: none;
   font-size: 25px;
+}
+.rec-link {
+  padding: 10px;
 }
 .intro {
   margin: 50px auto;
