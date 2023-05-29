@@ -14,4 +14,7 @@ REMEMBER TO "COMMIT" YOUR CHANGES REGULARLY TO SHOW HOW YOU HAVE BUILT THIS PROJ
 
 # Project Summary
 
-> Before the final submission date you should include a "PROJECT SUMMARY" in this section here.
+- My project is a recipe page where you should be able to easily read and follow along with the recipes.
+- I encountered an issue with the links, it wouldn't display å, ä or ö properly. This was because the link wasn't using UTF-8. The solution was to force UTF-8 by using `<meta charset="UTF-8">`. Other than that I only had some minor issues with the layout of the pages. This was fixed by using the developer tools to find the preferred positioning. This was not a difficult issue, just one that needed time.
+- If I had more time I would first add more recipes to the website. I would maybe then add categories to the recipe selection page.
+- Maybe I should have been more focused while working on the project. It became hard to keep track of how long I had been working and because of that, it was harder to stick to my plan. I am not sure exactly how much time i spent on the project as my time report is only an estimate but I think it landed on 25 hours or so.
